@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\RTF\bin\Debug\RTF.exe.config
+C:\Users\Asus\source\repos\RTF\bin\Debug\RTF.exe
+C:\Users\Asus\source\repos\RTF\bin\Debug\RTF.pdb
+C:\Users\Asus\source\repos\RTF\obj\Debug\RTF.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\RTF\obj\Debug\RTF.Form1.resources
+C:\Users\Asus\source\repos\RTF\obj\Debug\RTF.Properties.Resources.resources
+C:\Users\Asus\source\repos\RTF\obj\Debug\RTF.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\RTF\obj\Debug\RTF.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RTF\obj\Debug\RTF.exe
+C:\Users\Asus\source\repos\RTF\obj\Debug\RTF.pdb
